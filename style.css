@@ -1,0 +1,26 @@
+.brightness{
+    filter: brightness(50%);
+}
+.card-img-overlay{
+    margin-top: 350px;
+}
+.card-img-overlay h1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 3.5rem;
+}
+.card-img-overlay a{
+    margin-left: 558px;
+    margin-top: 10px;
+}
+
+.main-part a{
+    margin-left: 390px;
+   
+}
+.accordion{
+    width: 470px;
+    height: 400px;
+   
+}
